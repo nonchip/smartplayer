@@ -1,1 +1,5 @@
 *.lua
+/.root
+/.run
+/moon
+/.sublime-*
